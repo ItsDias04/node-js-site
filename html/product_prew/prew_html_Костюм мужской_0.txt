@@ -1,0 +1,59 @@
+<form action="/cart_items" class="product-preview is-zero-count-shown is-more-variants" data-product-id="270280677" method="post">
+<div class="product-preview__content">
+<div class="product-preview__area-photo">
+<div class="product-preview__photo">
+<div class="img-ratio img-ratio_cover">
+<div class="img-ratio__inner">
+<a href="/product/primer-kostyum-muzhskoy">
+<picture>
+<source class="lazyload" data-srcset="https://static.insales-cdn.com/r/MIn8eFb8RUs/rs:fit:400:0:1/q:100/plain/images/products/1/1615/487908943/large_sample_mens_suit_1.jpg@webp" media="(min-width:768px)" type="image/webp">
+<source class="lazyload" data-srcset="https://static.insales-cdn.com/r/7Ff7yC1eyGc/rs:fit:300:0:1/q:100/plain/images/products/1/1615/487908943/large_sample_mens_suit_1.jpg@webp" media="(max-width:767px)" type="image/webp">
+<img alt="[Пример] Костюм мужской" class="lazyload" data-src="https://static.insales-cdn.com/r/s831wMYPHwo/rs:fit:400:0:1/q:100/plain/images/products/1/1615/487908943/large_sample_mens_suit_1.jpg"/>
+</source></source></picture>
+</a>
+</div>
+</div>
+<div class="product-preview__available">
+            
+            В наличии
+            
+          </div>
+<div class="stickers">
+<div class="sticker sticker-sale" data-product-card-sale-value="" data-sticker-title="sticker-sale"></div>
+<div class="sticker sticker-preorder" data-sticker-title="sticker-preorder">Предзаказ</div>
+</div>
+</div>
+</div>
+<div class="product-preview__area-title">
+<div class="product-preview__title">
+<a href="/product/primer-kostyum-muzhskoy">[Пример] Костюм мужской</a>
+</div>
+</div>
+<div class="product-preview__area-description">
+</div>
+<div class="product-preview__area-bottom">
+<div class="product-preview__price">
+<span class="product-preview__price-cur">13330 руб</span>
+</div>
+<div class="product-preview__controls">
+<input name="quantity" type="hidden" value="1"/>
+<input name="variant_id" type="hidden" value="472254951"/>
+<div class="product-preview__controls-left">
+<span class="button button_size-s favorites_btn" data-ui-favorites-trigger="270280677">
+<span class="btn-icon icon-favorites-o"></span>
+<span class="btn-icon icon-favorites-f"></span>
+</span>
+<span class="button product-preview__compare-btn" data-compare-trigger="270280677">
+<span class="button__icon icon-compare"></span>
+</span>
+</div>
+<button class="button product-preview__show-modal-variants-btn js-show-modal-product" type="button">
+<span class="button__icon icon-cart"></span>
+</button>
+<a class="button product-preview__detail-select-btn" href="/product/primer-kostyum-muzhskoy">
+<span class="button__icon icon-eye"></span>
+</a>
+</div>
+</div>
+</div>
+</form>

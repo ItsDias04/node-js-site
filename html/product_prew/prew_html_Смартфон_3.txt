@@ -1,0 +1,61 @@
+<form action="/cart_items" class="product-preview is-zero-count-shown is-more-variants" data-product-id="270280669" method="post">
+<div class="product-preview__content">
+<div class="product-preview__area-photo">
+<div class="product-preview__photo">
+<div class="img-ratio img-ratio_cover">
+<div class="img-ratio__inner">
+<a href="/product/primer-smartfon">
+<picture>
+<source class="lazyload" data-srcset="https://static.insales-cdn.com/r/x_087RyKc4o/rs:fit:400:0:1/q:100/plain/images/products/1/1588/487908916/large_smartphone_gold_0.jpeg@webp" media="(min-width:768px)" type="image/webp">
+<source class="lazyload" data-srcset="https://static.insales-cdn.com/r/pzFzOwmT-bU/rs:fit:300:0:1/q:100/plain/images/products/1/1588/487908916/large_smartphone_gold_0.jpeg@webp" media="(max-width:767px)" type="image/webp">
+<img alt="[Пример] Смартфон" class="lazyload" data-src="https://static.insales-cdn.com/r/G8ABCJV6rsk/rs:fit:400:0:1/q:100/plain/images/products/1/1588/487908916/large_smartphone_gold_0.jpeg"/>
+</source></source></picture>
+</a>
+</div>
+</div>
+<div class="product-preview__available">
+            
+            В наличии
+            
+          </div>
+<div class="stickers">
+<div class="sticker sticker-new" data-sticker-title="Новинка">Новинка</div>
+<div class="sticker sticker-sale" data-product-card-sale-value="" data-sticker-title="sticker-sale"></div>
+<div class="sticker sticker-preorder" data-sticker-title="sticker-preorder">Предзаказ</div>
+</div>
+</div>
+</div>
+<div class="product-preview__area-title">
+<div class="product-preview__title">
+<a href="/product/primer-smartfon">[Пример] Смартфон</a>
+</div>
+</div>
+<div class="product-preview__area-description">
+</div>
+<div class="product-preview__area-bottom">
+<div class="product-preview__price">
+<span class="product-preview__price-label">От</span>
+<span class="product-preview__price-cur">99990 руб</span>
+</div>
+<div class="product-preview__controls">
+<input name="quantity" type="hidden" value="1"/>
+<input name="variant_id" type="hidden" value="472254921"/>
+<div class="product-preview__controls-left">
+<span class="button button_size-s favorites_btn" data-ui-favorites-trigger="270280669">
+<span class="btn-icon icon-favorites-o"></span>
+<span class="btn-icon icon-favorites-f"></span>
+</span>
+<span class="button product-preview__compare-btn" data-compare-trigger="270280669">
+<span class="button__icon icon-compare"></span>
+</span>
+</div>
+<button class="button product-preview__show-modal-variants-btn js-show-modal-product" type="button">
+<span class="button__icon icon-cart"></span>
+</button>
+<a class="button product-preview__detail-select-btn" href="/product/primer-smartfon">
+<span class="button__icon icon-eye"></span>
+</a>
+</div>
+</div>
+</div>
+</form>

@@ -1,0 +1,98 @@
+[
+    {
+        "name": "Костюм мужской",
+        "name_page": "html_Костюм мужской_0.html",
+        "url": "/product/primer-kostyum-muzhskoy",
+        "form_name": "prew_html_Костюм мужской_0.txt",
+        "jter": 0,
+        "product_id": "270280677"
+    },
+    {
+        "name": "Костюм женский",
+        "name_page": "html_Костюм женский_1.html",
+        "url": "/product/primer-kostyum-zhenskiy",
+        "form_name": "prew_html_Костюм женский_1.txt",
+        "jter": 1,
+        "product_id": "270280676"
+    },
+    {
+        "name": "Ноутбук",
+        "name_page": "html_Ноутбук_2.html",
+        "url": "/product/primer-noutbuk",
+        "form_name": "prew_html_Ноутбук_2.txt",
+        "jter": 2,
+        "product_id": "270280674"
+    },
+    {
+        "name": "Смартфон",
+        "name_page": "html_Смартфон_3.html",
+        "url": "/product/primer-smartfon",
+        "form_name": "prew_html_Смартфон_3.txt",
+        "jter": 3,
+        "product_id": "270280669"
+    },
+    {
+        "name": "Смарт-часы",
+        "name_page": "html_Смарт-часы_4.html",
+        "url": "/product/primer-smart-chasy",
+        "form_name": "prew_html_Смарт-часы_4.txt",
+        "jter": 4,
+        "product_id": "270280666"
+    },
+    {
+        "name": "Ручка",
+        "name_page": "html_Ручка_5.html",
+        "url": "/product/primer-ruchka",
+        "form_name": "prew_html_Ручка_5.txt",
+        "jter": 5,
+        "product_id": "270280664"
+    },
+    {
+        "name": "Стол руководителя",
+        "name_page": "html_Стол руководителя_6.html",
+        "url": "/product/primer-stol-rukovoditelya",
+        "form_name": "prew_html_Стол руководителя_6.txt",
+        "jter": 6,
+        "product_id": "270280663"
+    },
+    {
+        "name": "Кресло руководителя",
+        "name_page": "html_Кресло руководителя_7.html",
+        "url": "/product/primer-kreslo-rukovoditelya",
+        "form_name": "prew_html_Кресло руководителя_7.txt",
+        "jter": 7,
+        "product_id": "270280659"
+    },
+    {
+        "name": "Лампа настольная",
+        "name_page": "html_Лампа настольная_8.html",
+        "url": "/product/primer-lampa-nastolnaya",
+        "form_name": "prew_html_Лампа настольная_8.txt",
+        "jter": 8,
+        "product_id": "270280658"
+    },
+    {
+        "name": "Чашка для кофе",
+        "name_page": "html_Чашка для кофе_9.html",
+        "url": "/product/primer-chashka-dlya-kofe",
+        "form_name": "prew_html_Чашка для кофе_9.txt",
+        "jter": 9,
+        "product_id": "270280656"
+    },
+    {
+        "name": "Книга о бизнесе",
+        "name_page": "html_Книга о бизнесе_10.html",
+        "url": "/product/primer-kniga-o-biznese",
+        "form_name": "prew_html_Книга о бизнесе_10.txt",
+        "jter": 10,
+        "product_id": "270280654"
+    },
+    {
+        "name": "Кашпо",
+        "name_page": "html_Кашпо_11.html",
+        "url": "/product/primer-kashpo",
+        "form_name": "prew_html_Кашпо_11.txt",
+        "jter": 11,
+        "product_id": "270280653"
+    }
+]
